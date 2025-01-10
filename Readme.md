@@ -1,5 +1,5 @@
 <h1 align="center">
-Python Series - Full Course Overview
+Python - Full Course Overview
 <br>
 Table of Content
 </h1>
